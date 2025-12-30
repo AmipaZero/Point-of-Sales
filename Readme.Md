@@ -26,12 +26,8 @@ Setiap pengguna wajib login untuk mendapatkan token, dan token tersebut harus di
 - Membuat transaksi penjualan  
 - Mendukung lebih dari satu produk dalam satu transaksi  
 - Mengurangi stok produk secara otomatis  
-- Menyimpan riwayat transaksi penjualan  
-
-### 📊 Laporan Transaksi
-- Melihat daftar transaksi penjualan  
-- Filter laporan berdasarkan tanggal  
-- Hak akses laporan hanya tersedia untuk **Admin**
+- Menyimpan riwayat transaksi penjualan 
+- Membuat laporan riwayat transaksi Hak akses laporan hanya tersedia untuk **Admin**
 
 ---
 ## 🛠️ Teknologi yang Digunakan
@@ -40,3 +36,4 @@ Setiap pengguna wajib login untuk mendapatkan token, dan token tersebut harus di
 - **PostgreSQL** (Database)  
 - **SQLAlchemy** (ORM)  
 - **JWT** (JSON Web Token untuk autentikasi)  
+
