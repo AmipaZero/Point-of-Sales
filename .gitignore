@@ -1,0 +1,50 @@
+# =====================
+# Environment variables
+# =====================
+.env
+
+# =====================
+# Python cache & compiled files
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =====================
+# Virtual environment
+# =====================
+venv/
+.env/
+.venv/
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# IDE / Editor
+# =====================
+.vscode/
+.idea/
+*.iml
+
+# =====================
+# Testing / Coverage
+# =====================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =====================
+# Database (optional, jika ada file lokal)
+# =====================
+*.sqlite3
+*.db

@@ -1,0 +1,6 @@
+flask
+flask-jwt-extended
+sqlalchemy
+pymysql
+python-dotenv
+werkzeug
